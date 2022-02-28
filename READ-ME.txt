@@ -1,0 +1,8 @@
+-About-
+
+This game was created by eligeti suhas in 1 week. You can watch the video about how it was made here: https://youtu.be/LnoxdmYscJg.
+
+-Controls-
+ASDW - Move (Hold Shift to move quicker)
+Space - Enter/Exit Car
+Left Mouse Click - Shoot Gun
